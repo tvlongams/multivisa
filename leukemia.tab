@@ -1,0 +1,5 @@
+biolab.si/leukemia.tab
+VizRank:  100.0
+classification accuracy:  100.0
+[1374, 1303, 3758, 20, 4968, 908, 1933, 19, 4337, 1335]
+['M27891_at', 'M20902_at', 'Z46973_at', 'AFFX-M27830_M_at', 'M31523_at', 'L07633_at', 'U05259_rna1_at', 'AFFX-M27830_5_at', 'U05255_s_at', 'M23197_at']
